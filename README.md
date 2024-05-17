@@ -12,6 +12,6 @@
 <br />
   
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorrhg&layout=compact&hide=html&theme=dark" alt="hectorrhg" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorrhg&layout=compact&hide=html&theme=dark" alt="sunecko" />
 <div/>
 <br />
