@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [General Software Inc](https://generalsoftwareinc.com/). as a backend developer
 - 🌱 I’m currently learning Rust and Golang
 - 👯 I’m looking to collaborate on public reposiories
 - ⚡ Fun fact: I'm student
